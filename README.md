@@ -31,6 +31,8 @@ This Python script is designed to predict heart disease using machine learning m
 ## Example
 
 ![image](https://github.com/Daman2461/Heart-Disease-Predictor/assets/142651012/c49e3b6b-54cc-4fad-a756-0c03d3b321e7)
+
 ![image](https://github.com/Daman2461/Heart-Disease-Predictor/assets/142651012/ee63fe07-e5fa-4b3e-a31d-dedba1c6b5b4)
+
 ![image](https://github.com/Daman2461/Heart-Disease-Predictor/assets/142651012/b4ce2cd8-71e9-426c-a039-f1254ff1bb5c)
 
