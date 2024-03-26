@@ -5,6 +5,8 @@
 
 This Python script is designed to predict heart disease using machine learning models, specifically Random Forest and XGBoost classifiers. It provides users with the ability to train, evaluate, and make predictions based on input data.
 
+The values of n_estimators, max_depth, max_sample_split were calculated and choosen from a list of possibilites using GridSearchCV and those values have been used, So, If you have your own dataset, these values may not be your best choice to train on
+
 ## Key Features
 
 - **Data Loading and Preprocessing:** The script loads the heart disease dataset (`heart.csv`) using pandas and preprocesses it by encoding categorical variables using one-hot encoding.
