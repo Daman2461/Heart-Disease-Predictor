@@ -25,5 +25,6 @@ This Python script is designed to predict heart disease using machine learning m
    pip install pandas scikit-learn xgboost
    python heart_disease_prediction.py ```
 
-DATASET
-   The heart disease dataset (heart.csv) contains various features such as age, blood pressure, cholesterol levels, and categorical variables related to chest pain, ECG results, and exercise-induced angina.Dataset taken from Kaggle
+##DATASET
+
+   -The heart disease dataset (heart.csv) contains various features such as age, blood pressure, cholesterol levels, and categorical variables related to chest pain, ECG results, and exercise-induced angina.Dataset taken from Kaggle
