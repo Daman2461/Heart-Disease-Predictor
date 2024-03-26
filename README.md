@@ -20,10 +20,10 @@ This Python script is designed to predict heart disease using machine learning m
 1. **Clone the repository to your local machine:**
 
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
+   git clone https://github.com/Daman2461/heart-disease-predictior.git
    cd heart-disease-prediction
    pip install pandas scikit-learn xgboost
-   python heart_disease_prediction.py ```
+   python heart_disease_predictior.py ```
 
 ## Dataset
 
